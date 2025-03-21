@@ -1,62 +1,62 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Ketan%20Ananta%20Shelke&fontSize=40&fontColor=ffffff&fontAlignY=35&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ketan%20Ananta%20Shelke&fontSize=40&fontColor=ffffff&fontAlignY=35&animation=fadeIn" />
 </p>
 
 <h3 align="center">🚀 QA/QC Engineer | Transitioning to EV Industry | MATLAB Simulink | BMS </h3>
 
 ---
 
-### 🔹 About Me  
+## 🔹 About Me  
 🔧 **EV Enthusiast & Engineer** with 4 years in **QA/QC Fabrication** and a passion for **Electric Vehicles, Battery Management Systems, and MATLAB Simulink**. Committed to driving **sustainable energy solutions** and **technological innovations**.  
 
 📍 **Location:** Karjat, India  
 📧 **Email:** [ketanshelke096@gmail.com](mailto:ketanshelke096@gmail.com)  
-🔗 **LinkedIn:** [Ketan Shelke](https://www.linkedin.com/in/i-sai-rajesh-kumar-2419491b2)  
-🔗 **GitHub:** [I-S-R-Kumar](https://www.github.com/I-S-R-Kumar)  
+🔗 **LinkedIn:** [Ketan Shelke](https://www.linkedin.com/in/ketan-shelke/)  
+🔗 **GitHub:** [I-S-R-Kumar](https://ketanshelkegit.github.io/ketan-shelke-portfolio/)  
 
 ---
 
-### 📌 Key Skills  
+## 📌 Key Skills  
 
-💡 **EV Technologies** | ⚡ **MATLAB & Simulink** | 🔋 **Battery Management Systems (BMS)**  
-📊 **Battery Sizing & Charging Infrastructure** | 🔧 **Low-voltage Systems & EV Testing**  
-📑 **Mechanical Sub-systems** | 📈 **SAP & WCM** | 💻 **MS Office & Data Analysis**  
-🧠 **Critical Thinking** | 📚 **Fast Learning** | 🔍 **Problem Solving**  
+✅ **EV Technologies** | ⚡ **MATLAB & Simulink** | 🔋 **Battery Management Systems (BMS)**  
+✅ **Battery Sizing | Charging Infrastructure | Low-voltage Systems**  
+✅ **Mechanical Sub-systems | EV Testing | SAP | WCM**  
+✅ **Critical Thinking | Problem-Solving | Fast Learning**  
 
 ---
 
-### 📊 Projects  
+## 📊 Projects  
 
-#### 🔋 **Design of 100kWh & 72V Battery Pack in Simulink**  
+### 🔋 **Design of 100kWh & 72V Battery Pack in Simulink**  
 📌 *Intellipaat Bangalore*  
-✅ Designed using **BYD 3.2V, 15Ah, 4680 Cells** for a **100kWh, 72V** configuration.  
-✅ Used **MATLAB Simulink** for **electrical modeling & analysis**.  
-✅ Conducted **performance simulations** under diverse conditions for **optimization**.  
+- Designed using **BYD 3.2V, 15Ah, 4680 Cells** for a **100kWh, 72V** configuration.  
+- Utilized **MATLAB Simulink** for **electrical modeling & analysis**.  
+- Conducted **performance simulations** under diverse conditions for **optimization**.  
 
-#### ⚡ **Economic Load Dispatch on IEEE 30 Bus Using Soft-Computing Techniques**  
+### ⚡ **Economic Load Dispatch on IEEE 30 Bus Using Soft-Computing Techniques**  
 📌 *NIT Rourkela*  
-✅ Implemented **Genetic Algorithms** for **economic load dispatch optimization**.  
-✅ Managed **generation costs** while aligning with demand & operational constraints.  
-✅ Compared **traditional vs. modern energy management strategies**.  
+- Implemented **Genetic Algorithms** for **economic load dispatch optimization**.  
+- Managed **generation costs** while aligning with demand & operational constraints.  
+- Compared **traditional vs. modern energy management strategies**.  
 
 ---
 
-### 🏆 Certifications  
+## 🏆 Certifications  
 
-- 🎓 **Electric Vehicle Advanced Certification Program** - Intellipaat & IIT Roorkee  
-- 🎓 **MATLAB–Simulink Certification in Electrical Engineering** - Udemy  
+🏅 **Electric Vehicle Advanced Certification Program** - Intellipaat & IIT Roorkee  
+🏅 **MATLAB–Simulink Certification in Electrical Engineering** - Udemy  
 
 ---
 
-### 💼 Work Experience  
+## 💼 Work Experience  
 
 🚀 **QA/QC Engineer | ASTUN TECHNOLOGIES PVT LTD** *(March 2021 – Present)*  
 ⚙️ **Machine Operator | ASB PVT LTD** *(Feb 2020 – Jan 2021)*  
 
 ---
 
-### 📚 Education  
+## 🎓 Education  
 
 🎓 **B.E. (Mechanical Engineering)** - Dilkap College of Engg, Neral *(2020, 7.23 CGPA)*  
 🎓 **Diploma (Mechanical Engineering)** - Tasgaonkar Polytechnic *(2016, 64.06%)*  
@@ -65,7 +65,7 @@
 
 ---
 
-### 📊 GitHub Stats & Activity  
+## 📊 GitHub Stats & Activity  
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=I-S-R-Kumar&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
@@ -81,7 +81,7 @@
 
 ---
 
-### 🔗 Connect with Me  
+## 🔗 Connect with Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/i-sai-rajesh-kumar-2419491b2">
