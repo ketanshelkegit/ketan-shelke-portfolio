@@ -13,7 +13,7 @@
 📍 **Location:** Karjat, India  
 📧 **Email:** [ketanshelke096@gmail.com](mailto:ketanshelke096@gmail.com)  
 🔗 **LinkedIn:** [Ketan Shelke](https://www.linkedin.com/in/ketan-shelke/)  
-🔗 **GitHub:** [I-S-R-Kumar](https://ketanshelkegit.github.io/ketan-shelke-portfolio/)  
+🔗 **GitHub:** [Ketan-Shelke](https://ketanshelkegit.github.io/ketan-shelke-portfolio/)  
 
 ---
 
