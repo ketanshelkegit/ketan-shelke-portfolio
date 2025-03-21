@@ -65,23 +65,6 @@
 🎓 **H.S.C.** - A.J. Karjat *(2014, 52%)*  
 🎓 **S.S.C.** - S.J.V.M. Poshir *(2012, 76.91%)*  
 
----
-
-## 📊 GitHub Stats & Activity  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=I-S-R-Kumar&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=I-S-R-Kumar&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-S-R-Kumar&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🔗 Connect with Me  
 
@@ -89,7 +72,7 @@
   <a href="https://www.linkedin.com/in/i-sai-rajesh-kumar-2419491b2">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/I-S-R-Kumar">
+  <a href="https://www.linkedin.com/in/ketan-shelke/">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:ketanshelke096@gmail.com">
