@@ -34,11 +34,13 @@
 - Utilized **MATLAB Simulink** for **electrical modeling & analysis**.  
 - Conducted **performance simulations** under diverse conditions for **optimization**.  
 
-### ⚡ **Economic Load Dispatch on IEEE 30 Bus Using Soft-Computing Techniques**  
-📌 *NIT Rourkela*  
-- Implemented **Genetic Algorithms** for **economic load dispatch optimization**.  
-- Managed **generation costs** while aligning with demand & operational constraints.  
-- Compared **traditional vs. modern energy management strategies**.  
+### 🌦️ Weather Data Analysis using MATLAB  
+📌 *Intellipaat Bangalore*  
+- 📊 **Developed a MATLAB-based data analysis pipeline** to import, clean, and process historical weather data, handling missing values and anomalies.  
+- 📈 **Implemented statistical and trend analysis techniques** to calculate **mean, median, standard deviation, and moving averages** for key weather parameters like temperature, humidity, and precipitation.  
+- 🔍 **Applied correlation analysis and linear regression modeling** to identify relationships between weather variables, using MATLAB's `polyfit` and `polyval` functions for predictive analysis.  
+- 🎨 **Designed interactive visualizations**, including **time series graphs, 3D surface plots, and multi-plot figures**, to present insights effectively using MATLAB’s plotting tools.  
+
 
 ---
 
